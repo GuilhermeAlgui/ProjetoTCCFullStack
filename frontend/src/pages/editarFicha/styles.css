@@ -1,0 +1,108 @@
+.editFichaContainer{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+.editFichaMain{
+    text-align: center;
+}
+
+.editFichaItem{
+    background-color: linen;
+    padding: 0;
+    border-width: 10;
+    border-color: black;
+    border-radius: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.editFichaItem:hover{
+    filter: brightness(90%);
+}
+.botaoEditFicha{
+    height: 100px;
+}
+
+.editFichaList {
+
+    padding: 0, 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+    width: 50%;
+    
+}
+.editFichaListTudo {
+
+    padding: 0, 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+    
+}
+.editFichaListVelha {
+    width: 20%;
+    padding: 0, 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+    
+}
+
+.editFichaListTitle{
+    background-color: lightblue;
+    
+}
+
+.editFichaExercicioItemNome{
+
+    margin-right: 10px;
+    width: 50%;
+}
+
+.editFichaExercicioItemTipo{
+
+    width: 50%;
+}
+
+
+
+.editFichaItemTextNome{
+    margin-right: 10px;
+    width: 40%;
+
+}
+.editFichaItemTextTipo{
+    
+    width: 20%;
+    
+}
+.editFichaItemTextSerie{
+    
+    width: 20%;
+    
+}
+.editFichaItemTextRepeticao{
+    
+    width: 20%;
+    
+}
+
+.editFichaItemTextCarga{
+    
+    width: 20%;
+    
+}
+
+.editFichaAlunoNome{
+    justify-self: center;
+
+}
+
+
+.editFichaListItensTitle{
+    
+    flex:1;
+    background-color: lightblue;
+    flex-direction: row;
+    display: flex;
+}

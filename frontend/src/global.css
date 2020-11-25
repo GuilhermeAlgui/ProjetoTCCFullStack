@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rambla:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font: 400, 14px , Rambla, sans-serif;
+    background-color: #EEAD2D;
+    font-family: Rambla;
+    -webkit-font-smoothing: antiliased;
+
+}
+
+input, button, textarea{
+    font-family: Rambla;
+
+}
+
+button{
+    cursor: pointer;
+}

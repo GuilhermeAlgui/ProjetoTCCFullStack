@@ -1,0 +1,136 @@
+.ExercicioContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #EEAD2D;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: #EEAD2D;
+    width: 100%;
+    align-items: center;
+    padding: 0 30px;
+}
+
+.logo{
+    width:  40px;
+    height: 40px;
+}
+
+.bemvindo{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.titulo{
+    font-weight: bold;
+    align-self: center;
+    margin-top: 40px;
+    font-size: 50px;
+}
+
+
+.logout{
+
+
+}
+
+.Exercicio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 100px;
+
+}
+
+.ExercicioItem{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px 0 ;
+    margin: 0 ;
+    margin-right: 20px;
+
+    
+}
+.ExercicioNome {
+    flex-direction: column;
+        
+
+    
+}
+.labelExercicio{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+
+}
+.inputExercicio{
+    width: 100%;
+    height: 75%;
+    font-size: 16px;
+}
+.ExercicioDescricao {
+    flex-direction: column;
+    
+    
+}
+.labelDescricao{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.inputDescricao{
+    width: 100%;
+    height: 75%;
+    font-size: 16px;
+    resize: vertical;
+}
+
+button:hover{
+    filter: brightness(90%);
+}
+.botao{
+    
+    border-radius: 30px;
+    width: 100%;
+    height: 30px;
+
+}
+
+.botaostyle{
+    margin-top: 20px;
+    
+}
+
+.fichas{
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.ficha{
+    background: #FFF;
+    padding: 25px;
+    border-radius: 15px;
+    position: relative ;
+    text-align: center;
+    transition: filter 0.2s;
+
+
+}
+
+.fichaTipo{
+    font-size: 20px;
+    font-weight: bold;
+    justify-self: center;
+}
+
+.ficha:hover{
+    filter: brightness(90%)
+}
