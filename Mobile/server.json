@@ -1,0 +1,299 @@
+{
+   "Ficha" : [
+  {
+    "aluno": "Guilherme",
+    "exercicio": [
+      {
+        "abdominal" : [
+          {"abdominal obliquio" : [
+            {"nome": "Abdominal Obliquio",
+              "Repetições" : 3}
+          ],
+          "Abdominal bola" : [
+            {"nome": "Abdominal Obliquio",
+              "Repetições" : 3}
+          ]
+        }
+        ],
+        "aerobico" : [
+          {
+            "biciscleta" :[
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "esteira" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "jumpfit": [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "eliptico" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ]
+          }
+        ],
+        "biceps/antebraço": [
+          {
+            "Rosca Martelo com alteres" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca direta" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca alternada" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca concentrada" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca scott" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca polia" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca punho" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca 21" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Rosca Martelo" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ]
+          }
+        ],
+        "costa" : [
+          {
+            "puxador frontal" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "puxador costa" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Remada baixa" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Remada Unilateral" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Remada curvada" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "Remada I" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+            "cruxifixo invertido" : [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ]
+          }
+        ],
+        "membros inferiores": [
+          {
+            "Agachamento": [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+"Agachamento Guiado": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}  
+],
+
+"Agachamento Livre": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}  
+],
+"Agachamento Sumo": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}    
+],
+"Avanço Guiado": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Avanço Livre": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Leg Press": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Extensora": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}        
+],
+"Flexora": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}         
+],
+"Stiff": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}         
+],
+
+"Abdução": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}       
+],
+"Gluteo Solo": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Gluteo Na Ponta": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Graviton": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Elevação Pelvica": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Panturrilha Leg": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Panturrilha Sentada": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}    
+],
+"Panturrilha em pé": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}       
+],
+"Agachamento com bola": [
+              
+],
+"Peso Frontal": [
+              
+]
+          }
+        ],
+        "ombro/trapezio": [
+          {
+            "Desenvolvimento Frontal": [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+"Desenvolvimento Costa": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}
+],
+"Remada Alta": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3} 
+],
+"Elevação Frontal": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Elevação Lateral": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3} 
+],
+"Encolhimento com Barra": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3} 
+],
+"Encolhimento com Halteres": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}   
+]
+          }
+        ],
+        "Peitoral": [
+          {
+            "Supino reto": [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+"Supino Inclinado": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Supino Declinado": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Crucifixo com Alteres": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}    
+],
+"Pull over": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Cross over": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Peck Deck": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}    
+]
+          }
+        ],
+        "Triceps": [
+          {
+            "Triceps no Puxador": [
+              {"nome": "Abdominal Obliquio",
+                "Repetições" : 3}
+            ],
+"Triceps na testa": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3} 
+],
+"Triceps Francês": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}   
+],
+"Triceps Supinado": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}   
+],
+"Triceps Inverso": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Triceps Corda": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+],
+"Triceps Unilateral": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}      
+],
+"Triceps Banco": [
+  {"nome": "Abdominal Obliquio",
+    "Repetições" : 3}     
+]
+          }
+        ]
+      }
+
+    ]
+  }
+]
+}
